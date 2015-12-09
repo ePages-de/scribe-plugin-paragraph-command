@@ -1,0 +1,24 @@
+{
+  "name": "scribe-plugin-paragraph-command",
+  "version": "0.1.0",
+  "description": "paragraph command for scribe",
+  "main": "src/scribe-plugin-paragraph-command.js",
+  "scripts": {
+    "test": "echo ¯\\_(ツ)_/¯ no tests yet"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ePages-de/scribe-plugin-paragraph-command.git"
+  },
+  "keywords": [
+    "scribe",
+    "plugin",
+    "paragraph"
+  ],
+  "author": "Florian Oellerich <f.oellerich@epages.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ePages-de/scribe-plugin-paragraph-command/issues"
+  },
+  "homepage": "https://github.com/ePages-de/scribe-plugin-paragraph-command#readme"
+}
