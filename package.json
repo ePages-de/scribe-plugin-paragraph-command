@@ -1,6 +1,6 @@
 {
   "name": "scribe-plugin-paragraph-command",
-  "version": "0.2.0",
+  "version": "0.2.1",
   "description": "paragraph command for scribe",
   "main": "src/scribe-plugin-paragraph-command.js",
   "scripts": {
